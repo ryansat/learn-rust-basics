@@ -61,4 +61,3 @@ This example creates a new Rocket application that responds with "Hello, world!"
 I welcome any and all contributions to this guide. If you have suggestions or improvements, please open an issue or a pull request.
 
 Happy coding!
-```
