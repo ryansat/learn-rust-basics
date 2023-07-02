@@ -1,5 +1,3 @@
-Sure, here is a sample README.md file you can use. It's a basic guide for learning Rust, Cargo, and a little bit about Rocket.
-
 ```markdown
 # Learn Rust: A Beginner's Guide
 
